@@ -1,3 +1,3 @@
 Using Logistic Regression to predict churn - the number of customers who cease doing business with a company within a given period
 
-For interactive insights, the site is live at: 
+For interactive insights and better visibility, the site is live at: https://deninjo.github.io/Churn-Prediction/
